@@ -26,6 +26,8 @@ hmm...0.999... 9 vs 0.9(repeat)
 
 vs 11111111111111111111111111.....(can this number represent anyhting number in any base??????)
 
+Hint: ab The Proof is left as an exercise for the reader.
+
 Professor checks into hospitals
 
 In order(in a line?) to speak to Jesus (in a line?)you must know: ?
@@ -51,3 +53,4 @@ New Jersey has reeds in the swamp.
 
 老子: 
 [方[便]麵]
+
